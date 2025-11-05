@@ -1,0 +1,1033 @@
+{
+  "categories": {
+    "the-boiler": [
+      {
+        "id": "dungeness-crab-cluster",
+        "name": "Dungeness Crab Cluster",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "dungeness-crab-whole",
+        "name": "Dungeness Crab Whole",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "lobster-tail",
+        "name": "Lobster Tail",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "lobster-whole",
+        "name": "Lobster Whole",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "king-crab-legs",
+        "name": "King Crab Legs",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "snow-crab",
+        "name": "Snow Crab",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "crawfish",
+        "name": "Crawfish",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "live-crawfish",
+        "name": "Live Crawfish",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "clams",
+        "name": "Clams",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "mussels",
+        "name": "Mussels",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "shrimp-head-on",
+        "name": "Shrimp Head On",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "ez-peel-shrimp",
+        "name": "EZ Peel Shrimp",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "calamari",
+        "name": "Calamari",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "scallop",
+        "name": "Scallop",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "sauce": [
+      {
+        "id": "capt-loui",
+        "name": "Cap't Loui",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "lemon-pepper",
+        "name": "Lemon Pepper",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "spice-level": [
+      {
+        "id": "mild",
+        "name": "Mild",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "hot",
+        "name": "Hot",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "extra-hot",
+        "name": "Extra Hot",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "2x-hot",
+        "name": "2x Hot",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "inferno",
+        "name": "Inferno",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "sides": [
+      {
+        "id": "sausages",
+        "name": "Sausages",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "garlic-noodles",
+        "name": "Garlic Noodles",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "regular-fries",
+        "name": "Regular Fries",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "cajun-fries",
+        "name": "Cajun Fries",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "lemon-pepper-fries",
+        "name": "Lemon Pepper Fries",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "sweet-potato-fries",
+        "name": "Sweet Potato Fries",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": true,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "broccoli",
+        "name": "Broccoli",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "garlic-bread",
+        "name": "Garlic Bread",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "corn-on-the-cob",
+        "name": "Corn on the Cob",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "potatoes",
+        "name": "Potatoes",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "boiled-eggs",
+        "name": "Boiled Eggs",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": true,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "steamed-rice",
+        "name": "Steamed Rice",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "extra-sauce-capt-loui-mild",
+        "name": "Extra Sauce (ie. Cap't Loui Mild)",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "soups": [
+      {
+        "id": "clam-chowder-cup",
+        "name": "Clam Chowder, Cup",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": false,
+          "soybean": false,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "clam-chowder-bowl",
+        "name": "Clam Chowder, Bowl",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": false,
+          "soybean": false,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "jambalaya-cup",
+        "name": "Jambalaya, Cup",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "jambalaya-bowl",
+        "name": "Jambalaya, Bowl",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "raw-bar": [
+      {
+        "id": "oysters-6pcs",
+        "name": "Oysters, 6pcs",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": true,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "oysters-12pcs",
+        "name": "Oysters, 12pcs",
+        "allergens": {
+          "shellfish": true,
+          "milk": false,
+          "egg": false,
+          "soybean": true,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "wings": [
+      {
+        "id": "wings-6pcs",
+        "name": "Wings, 6pcs",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "wings-12pcs",
+        "name": "Wings, 12pcs",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "wings-24pcs",
+        "name": "Wings, 24pcs",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "fried-baskets": [
+      {
+        "id": "soft-shell-crab-basket-regular-fries",
+        "name": "Soft Shell Crab Basket",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "fish-chips-basket-regular-fries",
+        "name": "Fish and Chips Basket",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": true
+        }
+      },
+      {
+        "id": "fried-shrimp-basket-regular-fries",
+        "name": "Fried Shrimp Basket",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "calamari-basket-regular-fries",
+        "name": "Calamari Basket",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "chicken-tenders-basket-regular-fries",
+        "name": "Chicken Tenders Basket",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "wings-basket-regular-fries",
+        "name": "Wings Basket",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "fishermans-platter-regular-fries",
+        "name": "Fisherman's Platter",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": true
+        }
+      }
+    ],
+    "sandwiches": [
+      {
+        "id": "shrimp-poboy-regular-fries",
+        "name": "Shrimp Po'boy, w/ Regular Fries",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "chicken-poboy-regular-fries",
+        "name": "Chicken Po'boy, w/ Regular Fries",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "calamari-poboy-regular-fries",
+        "name": "Calamari Po'boy, w/ Regular Fries",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "fish-poboy-regular-fries",
+        "name": "Fish Po'boy, w/ Regular Fries",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": true
+        }
+      },
+      {
+        "id": "soft-shell-crab-poboy-regular-fries",
+        "name": "Soft Shell Crab Po'boy, w/ Regular Fries",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "lobster-roll-regular-fries",
+        "name": "Lobster Roll, with Regular Fries",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "hot-chicken-sandwich",
+        "name": "Hot Chicken Sandwich",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "lunch-specials": [
+      {
+        "id": "seafood-boiler-special",
+        "name": "Seafood Boiler Special",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "fried-basket-special",
+        "name": "Fried Basket Special",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "poboy-special",
+        "name": "Po'boy Special",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "cajun-pasta",
+        "name": "Cajun Pasta",
+        "allergens": {
+          "shellfish": true,
+          "milk": true,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "desserts": [
+      {
+        "id": "funnel-cake-fries",
+        "name": "Funnel Cake Fries",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "beignets",
+        "name": "Beignets",
+        "allergens": {
+          "shellfish": false,
+          "milk": false,
+          "egg": false,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      },
+      {
+        "id": "ice-cream",
+        "name": "Ice Cream",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": false,
+          "soybean": false,
+          "wheat": false,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ],
+    "kids-meal": [
+      {
+        "id": "little-capt-meal-fish",
+        "name": "Little Cap't Meal (Fried Fish)",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": true
+        }
+      },
+      {
+        "id": "little-capt-meal-chicken",
+        "name": "Little Cap't Meal (Fried Chicken)",
+        "allergens": {
+          "shellfish": false,
+          "milk": true,
+          "egg": true,
+          "soybean": true,
+          "wheat": true,
+          "sesame": false,
+          "treeNuts": false,
+          "peanut": false,
+          "fish": false
+        }
+      }
+    ]
+  }
+}

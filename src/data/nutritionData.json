@@ -1,0 +1,3466 @@
+{
+  "categories": {
+    "the-boiler": [
+      {
+        "id": "dungeness-crab-cluster",
+        "name": "Dungeness Crab Cluster",
+        "image": "/images/menu/boiler-dungeness-crab-cluster.webp",
+        "nutrition": {
+          "calories": 171,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 610,
+          "carbohydrates": 2,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 36
+        }
+      },
+      {
+        "id": "dungeness-crab-whole",
+        "name": "Dungeness Crab Whole",
+        "image": "/images/menu/boiler-dungeness-crab-whole.webp",
+        "nutrition": {
+          "calories": 210,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 152,
+          "sodium": 747,
+          "carbohydrates": 2,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 44
+        }
+      },
+      {
+        "id": "lobster-tail",
+        "name": "Lobster Tail",
+        "image": "/images/menu/boiler-lobster-tail.webp",
+        "nutrition": {
+          "calories": 130,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 80,
+          "sodium": 200,
+          "carbohydrates": 3,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 23
+        }
+      },
+      {
+        "id": "lobster-whole",
+        "name": "Lobster Whole",
+        "image": "/images/menu/boiler-lobster-whole.webp",
+        "nutrition": {
+          "calories": 81,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 126,
+          "sodium": 411,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 16
+        }
+      },
+      {
+        "id": "king-crab-legs",
+        "name": "King Crab Legs",
+        "image": "/images/menu/boiler-king-crab-legs.webp",
+        "nutrition": {
+          "calories": 193,
+          "fat": 3,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 127,
+          "sodium": 2141,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 40
+        }
+      },
+      {
+        "id": "snow-crab",
+        "name": "Snow Crab",
+        "image": "/images/menu/boiler-snow-crab.webp",
+        "nutrition": {
+          "calories": 140,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 140,
+          "sodium": 1460,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 32
+        }
+      },
+      {
+        "id": "crawfish",
+        "name": "Crawfish",
+        "image": "/images/menu/boiler-crawfish.webp",
+        "nutrition": {
+          "calories": 102,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 125,
+          "sodium": 102,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 20
+        }
+      },
+      {
+        "id": "live-crawfish",
+        "name": "Live Crawfish",
+        "image": "/images/menu/boiler-live-crawfish.webp",
+        "nutrition": {
+          "calories": 102,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 125,
+          "sodium": 102,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 20
+        }
+      },
+      {
+        "id": "clams",
+        "name": "Clams",
+        "image": "/images/menu/boiler-clams.webp",
+        "nutrition": {
+          "calories": 197,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 68,
+          "sodium": 127,
+          "carbohydrates": 8,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 33
+        }
+      },
+      {
+        "id": "mussels",
+        "name": "Mussels",
+        "image": "/images/menu/boiler-mussels.webp",
+        "nutrition": {
+          "calories": 273,
+          "fat": 7,
+          "saturatedFat": 1,
+          "transFat": 0,
+          "cholesterol": 137,
+          "sodium": 1475,
+          "carbohydrates": 14,
+          "fiber": 0,
+          "sugars": 3,
+          "protein": 39
+        }
+      },
+      {
+        "id": "shrimp-head-on",
+        "name": "Shrimp Head On",
+        "image": "/images/menu/boiler-shrimp-head-on.webp",
+        "nutrition": {
+          "calories": 496,
+          "fat": 5,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 653,
+          "sodium": 518,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 113
+        }
+      },
+      {
+        "id": "ez-peel-shrimp",
+        "name": "EZ Peel Shrimp",
+        "image": "/images/menu/boiler-ez-peel-shrimp.webp",
+        "nutrition": {
+          "calories": 402,
+          "fat": 4,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 603,
+          "sodium": 1741,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 89
+        }
+      },
+      {
+        "id": "calamari",
+        "name": "Calamari",
+        "image": "/images/menu/boiler-calamari.webp",
+        "nutrition": {
+          "calories": 166,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 1360,
+          "carbohydrates": 4,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 33
+        }
+      },
+      {
+        "id": "scallop",
+        "name": "Scallop",
+        "image": "/images/menu/boiler-scallop.webp",
+        "nutrition": {
+          "calories": 286,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 102,
+          "sodium": 612,
+          "carbohydrates": 12,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 61
+        }
+      }
+    ],
+    "sauce": [
+      {
+        "id": "capt-loui",
+        "name": "Cap't Loui",
+        "image": "/images/menu/sauce-captloui.jpg",
+        "nutrition": {
+          "calories": 848,
+          "fat": 80,
+          "saturatedFat": 32,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 3162,
+          "carbohydrates": 26,
+          "fiber": 2,
+          "sugars": 12,
+          "protein": 3
+        }
+      },
+      {
+        "id": "lemon-pepper",
+        "name": "Lemon Pepper",
+        "image": "/images/menu/sauce-lemon-pepper.jpg",
+        "nutrition": {
+          "calories": 848,
+          "fat": 79,
+          "saturatedFat": 32,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 3549,
+          "carbohydrates": 27,
+          "fiber": 1,
+          "sugars": 15,
+          "protein": 2
+        }
+      }
+    ],
+    "spice-level": [
+      {
+        "id": "mild",
+        "name": "Mild",
+        "image": "/images/menu/spice-mild.jpg",
+        "nutrition": {
+          "calories": 0,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 0,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 0
+        }
+      },
+      {
+        "id": "medium",
+        "name": "Medium",
+        "image": "/images/menu/spice-medium.jpg",
+        "nutrition": {
+          "calories": 6,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 1,
+          "carbohydrates": 1,
+          "fiber": 1,
+          "sugars": 0,
+          "protein": 0
+        }
+      },
+      {
+        "id": "hot",
+        "name": "Hot",
+        "image": "/images/menu/spice-hot.jpg",
+        "nutrition": {
+          "calories": 13,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 1,
+          "carbohydrates": 2,
+          "fiber": 1,
+          "sugars": 0,
+          "protein": 0
+        }
+      },
+      {
+        "id": "extra-hot",
+        "name": "Extra Hot",
+        "image": "/images/menu/spice-extra-hot.jpg",
+        "nutrition": {
+          "calories": 19,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 2,
+          "carbohydrates": 3,
+          "fiber": 2,
+          "sugars": 1,
+          "protein": 1
+        }
+      },
+      {
+        "id": "2x-hot",
+        "name": "2x Hot",
+        "image": "/images/menu/spice-2x-hot.jpg",
+        "nutrition": {
+          "calories": 25,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 2,
+          "carbohydrates": 5,
+          "fiber": 2,
+          "sugars": 1,
+          "protein": 1
+        }
+      },
+      {
+        "id": "inferno",
+        "name": "Inferno",
+        "image": "/images/menu/spice-inferno.jpg",
+        "nutrition": {
+          "calories": 38,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 4,
+          "carbohydrates": 7,
+          "fiber": 3,
+          "sugars": 1,
+          "protein": 1
+        }
+      }
+    ],
+    "sides": [
+      {
+        "id": "sausages",
+        "name": "Sausages",
+        "image": "/images/menu/sides-sausages.webp",
+        "nutrition": {
+          "calories": 720,
+          "fat": 64,
+          "saturatedFat": 20,
+          "transFat": 0,
+          "cholesterol": 140,
+          "sodium": 1960,
+          "carbohydrates": 12,
+          "fiber": 4,
+          "sugars": 8,
+          "protein": 28
+        }
+      },
+      {
+        "id": "garlic-noodles",
+        "name": "Garlic Noodles",
+        "image": "/images/menu/sides-garlic-noodles.webp",
+        "nutrition": {
+          "calories": 1153,
+          "fat": 35,
+          "saturatedFat": 11,
+          "transFat": 0,
+          "cholesterol": 10,
+          "sodium": 1359,
+          "carbohydrates": 181,
+          "fiber": 9,
+          "sugars": 9,
+          "protein": 39
+        }
+      },
+      {
+        "id": "regular-fries",
+        "name": "Regular Fries",
+        "image": "/images/menu/sides-regular-fries.webp",
+        "nutrition": {
+          "calories": 467,
+          "fat": 20,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 1714,
+          "carbohydrates": 70,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 7
+        }
+      },
+      {
+        "id": "cajun-fries",
+        "name": "Cajun Fries",
+        "image": "/images/menu/sides-cajun-fries.webp",
+        "nutrition": {
+          "calories": 501,
+          "fat": 20,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 2296,
+          "carbohydrates": 76,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 7
+        }
+      },
+      {
+        "id": "lemon-pepper-fries",
+        "name": "Lemon Pepper Fries",
+        "image": "/images/menu/sides-lemon-pepper-fries.webp",
+        "nutrition": {
+          "calories": 500,
+          "fat": 20,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 2441,
+          "carbohydrates": 77,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 7
+        }
+      },
+      {
+        "id": "sweet-potato-fries",
+        "name": "Sweet Potato Fries",
+        "image": "/images/menu/sides-sweet-potato-fries.webp",
+        "nutrition": {
+          "calories": 434,
+          "fat": 17,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 580,
+          "carbohydrates": 63,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 3
+        }
+      },
+      {
+        "id": "broccoli",
+        "name": "Broccoli",
+        "image": "/images/menu/sides-broccoli.webp",
+        "nutrition": {
+          "calories": 60,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 70,
+          "carbohydrates": 12,
+          "fiber": 6,
+          "sugars": 2,
+          "protein": 4
+        }
+      },
+      {
+        "id": "garlic-bread",
+        "name": "Garlic Bread",
+        "image": "/images/menu/sides-garlic-bread.webp",
+        "nutrition": {
+          "calories": 694,
+          "fat": 51,
+          "saturatedFat": 16,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 1056,
+          "carbohydrates": 51,
+          "fiber": 3,
+          "sugars": 3,
+          "protein": 9
+        }
+      },
+      {
+        "id": "corn-on-the-cob",
+        "name": "Corn on the Cob",
+        "image": "/images/menu/sides-corn-on-the-cob.webp",
+        "nutrition": {
+          "calories": 236,
+          "fat": 24,
+          "saturatedFat": 10,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 246,
+          "carbohydrates": 5,
+          "fiber": 1,
+          "sugars": 1,
+          "protein": 1
+        }
+      },
+      {
+        "id": "potatoes",
+        "name": "Potatoes",
+        "image": "/images/menu/sides-potatoes.webp",
+        "nutrition": {
+          "calories": 654,
+          "fat": 24,
+          "saturatedFat": 10,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 246,
+          "carbohydrates": 104,
+          "fiber": 8,
+          "sugars": 4,
+          "protein": 12
+        }
+      },
+      {
+        "id": "boiled-eggs",
+        "name": "Boiled Eggs",
+        "image": "/images/menu/sides-boiled-eggs.webp",
+        "nutrition": {
+          "calories": 215,
+          "fat": 15,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 617,
+          "sodium": 194,
+          "carbohydrates": 1,
+          "fiber": 1,
+          "sugars": 0,
+          "protein": 19
+        }
+      },
+      {
+        "id": "steamed-rice",
+        "name": "Steamed Rice",
+        "image": "/images/menu/sides-steamed-rice.webp",
+        "nutrition": {
+          "calories": 301,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 572,
+          "carbohydrates": 65,
+          "fiber": 1,
+          "sugars": 0,
+          "protein": 6
+        }
+      },
+      {
+        "id": "extra-sauce-capt-loui-mild",
+        "name": "Extra Sauce (ie. Cap't Loui Mild)",
+        "image": "/images/menu/sauce-captloui.jpg",
+        "nutrition": {
+          "calories": 848,
+          "fat": 80,
+          "saturatedFat": 32,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 3162,
+          "carbohydrates": 26,
+          "fiber": 2,
+          "sugars": 12,
+          "protein": 3
+        }
+      }
+    ],
+    "soups": [
+      {
+        "id": "clam-chowder-cup",
+        "name": "Clam Chowder, Cup",
+        "image": "/images/menu/soup-clam-chowder-cup.webp",
+        "nutrition": {
+          "calories": 335,
+          "fat": 17,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 54,
+          "sodium": 1003,
+          "carbohydrates": 34,
+          "fiber": 1,
+          "sugars": 6,
+          "protein": 9
+        }
+      },
+      {
+        "id": "clam-chowder-bowl",
+        "name": "Clam Chowder, Bowl",
+        "image": "/images/menu/soup-clam-chowder-bowl.webp",
+        "nutrition": {
+          "calories": 569,
+          "fat": 29,
+          "saturatedFat": 11,
+          "transFat": 0,
+          "cholesterol": 88,
+          "sodium": 1664,
+          "carbohydrates": 59,
+          "fiber": 2,
+          "sugars": 10,
+          "protein": 15
+        }
+      },
+      {
+        "id": "jambalaya-cup",
+        "name": "Jambalaya, Cup",
+        "image": "/images/menu/soup-jambalaya-cup.webp",
+        "nutrition": {
+          "calories": 285,
+          "fat": 11,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 54,
+          "sodium": 903,
+          "carbohydrates": 27,
+          "fiber": 3,
+          "sugars": 7,
+          "protein": 19
+        }
+      },
+      {
+        "id": "jambalaya-bowl",
+        "name": "Jambalaya, Bowl",
+        "image": "/images/menu/soup-jambalaya-bowl.webp",
+        "nutrition": {
+          "calories": 519,
+          "fat": 19,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 95,
+          "sodium": 1572,
+          "carbohydrates": 52,
+          "fiber": 5,
+          "sugars": 13,
+          "protein": 33
+        }
+      }
+    ],
+    "raw-bar": [
+      {
+        "id": "oysters-6pcs",
+        "name": "Oysters, 6pcs",
+        "image": "/images/menu/raw-bar-oysters-6pcs.webp",
+        "nutrition": {
+          "calories": 46,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 36,
+          "sodium": 77,
+          "carbohydrates": 2,
+          "fiber": 0,
+          "sugars": 1,
+          "protein": 5
+        }
+      },
+      {
+        "id": "oysters-12pcs",
+        "name": "Oysters, 12pcs",
+        "image": "/images/menu/raw-bar-oysters-12pcs.webp",
+        "nutrition": {
+          "calories": 92,
+          "fat": 3,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 72,
+          "sodium": 154,
+          "carbohydrates": 5,
+          "fiber": 0,
+          "sugars": 1,
+          "protein": 10
+        }
+      }
+    ],
+    "fried-baskets": [
+      {
+        "id": "soft-shell-crab-basket-regular-fries",
+        "name": "Soft Shell Crab Basket w/ Regular Fries",
+        "image": "/images/menu/fried-baskets-soft-shell-crab-regular.webp",
+        "nutrition": {
+          "calories": 851,
+          "fat": 44,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 79,
+          "sodium": 2252,
+          "carbohydrates": 101,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 17
+        }
+      },
+      {
+        "id": "soft-shell-crab-basket-cajun-fries",
+        "name": "Soft Shell Crab Basket w/ Cajun Fries",
+        "image": "/images/menu/fried-baskets-soft-shell-crab-cajun.webp",
+        "nutrition": {
+          "calories": 885,
+          "fat": 45,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 79,
+          "sodium": 2834,
+          "carbohydrates": 107,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 18
+        }
+      },
+      {
+        "id": "soft-shell-crab-basket-lemon-pepper-fries",
+        "name": "Soft Shell Crab Basket w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-baskets-soft-shell-crab-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 885,
+          "fat": 44,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 79,
+          "sodium": 2979,
+          "carbohydrates": 108,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 18
+        }
+      },
+      {
+        "id": "soft-shell-crab-basket-sweet-potato-fries",
+        "name": "Soft Shell Crab Basket w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-baskets-soft-shell-crab-sweet-potato.webp",
+        "nutrition": {
+          "calories": 818,
+          "fat": 41,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 79,
+          "sodium": 1118,
+          "carbohydrates": 94,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 14
+        }
+      },
+      {
+        "id": "fish-chips-basket-regular-fries",
+        "name": "Fish and Chips Basket w/ Regular Fries",
+        "image": "/images/menu/fried-baskets-fish-chips-regular.webp",
+        "nutrition": {
+          "calories": 1061,
+          "fat": 50,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 212,
+          "sodium": 2549,
+          "carbohydrates": 109,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 49
+        }
+      },
+      {
+        "id": "fish-chips-basket-cajun-fries",
+        "name": "Fish and Chips Basket w/ Cajun Fries",
+        "image": "/images/menu/fried-baskets-fish-chips-cajun.webp",
+        "nutrition": {
+          "calories": 1095,
+          "fat": 50,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 212,
+          "sodium": 3131,
+          "carbohydrates": 115,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 50
+        }
+      },
+      {
+        "id": "fish-chips-basket-lemon-pepper-fries",
+        "name": "Fish and Chips Basket w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-baskets-fish-chips-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1095,
+          "fat": 50,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 212,
+          "sodium": 3276,
+          "carbohydrates": 115,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 50
+        }
+      },
+      {
+        "id": "fish-chips-basket-sweet-potato-fries",
+        "name": "Fish and Chips Basket w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-baskets-fish-chips-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1028,
+          "fat": 46,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 212,
+          "sodium": 1415,
+          "carbohydrates": 102,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 46
+        }
+      },
+      {
+        "id": "fried-shrimp-basket-regular-fries",
+        "name": "Fried Shrimp Basket w/ Regular Fries",
+        "image": "/images/menu/fried-baskets-fried-shrimp-regular.webp",
+        "nutrition": {
+          "calories": 787,
+          "fat": 37,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 127,
+          "sodium": 2468,
+          "carbohydrates": 99,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 20
+        }
+      },
+      {
+        "id": "fried-shrimp-basket-cajun-fries",
+        "name": "Fried Shrimp Basket w/ Cajun Fries",
+        "image": "/images/menu/fried-baskets-fried-shrimp-cajun.webp",
+        "nutrition": {
+          "calories": 821,
+          "fat": 37,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 127,
+          "sodium": 3050,
+          "carbohydrates": 105,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 20
+        }
+      },
+      {
+        "id": "fried-shrimp-basket-lemon-pepper-fries",
+        "name": "Fried Shrimp Basket w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-baskets-fried-shrimp-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 821,
+          "fat": 37,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 127,
+          "sodium": 3195,
+          "carbohydrates": 106,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 20
+        }
+      },
+      {
+        "id": "fried-shrimp-basket-sweet-potato-fries",
+        "name": "Fried Shrimp Basket w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-baskets-fried-shrimp-sweet-potato.webp",
+        "nutrition": {
+          "calories": 754,
+          "fat": 34,
+          "saturatedFat": 3,
+          "transFat": 0,
+          "cholesterol": 127,
+          "sodium": 1334,
+          "carbohydrates": 92,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 17
+        }
+      },
+      {
+        "id": "calamari-basket-regular-fries",
+        "name": "Calamari Basket w/ Regular Fries",
+        "image": "/images/menu/fried-baskets-calamari-regular.webp",
+        "nutrition": {
+          "calories": 944,
+          "fat": 45,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 246,
+          "sodium": 3194,
+          "carbohydrates": 102,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 38
+        }
+      },
+      {
+        "id": "calamari-basket-cajun-fries",
+        "name": "Calamari Basket w/ Cajun Fries",
+        "image": "/images/menu/fried-baskets-calamari-cajun.webp",
+        "nutrition": {
+          "calories": 978,
+          "fat": 45,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 246,
+          "sodium": 3776,
+          "carbohydrates": 108,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 38
+        }
+      },
+      {
+        "id": "calamari-basket-lemon-pepper-fries",
+        "name": "Calamari Basket w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-baskets-calamari-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 977,
+          "fat": 45,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 246,
+          "sodium": 3921,
+          "carbohydrates": 109,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 38
+        }
+      },
+      {
+        "id": "calamari-basket-sweet-potato-fries",
+        "name": "Calamari Basket w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-baskets-calamari-sweet-potato.webp",
+        "nutrition": {
+          "calories": 910,
+          "fat": 42,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 246,
+          "sodium": 2060,
+          "carbohydrates": 96,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 34
+        }
+      },
+      {
+        "id": "chicken-tenders-basket-regular-fries",
+        "name": "Chicken Tenders Basket w/ Regular Fries",
+        "image": "/images/menu/fried-baskets-chicken-tenders-regular.webp",
+        "nutrition": {
+          "calories": 1106,
+          "fat": 44,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 183,
+          "sodium": 3139,
+          "carbohydrates": 115,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 69
+        }
+      },
+      {
+        "id": "chicken-tenders-basket-cajun-fries",
+        "name": "Chicken Tenders Basket w/ Cajun Fries",
+        "image": "/images/menu/fried-baskets-chicken-tenders-cajun.webp",
+        "nutrition": {
+          "calories": 1140,
+          "fat": 44,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 183,
+          "sodium": 3721,
+          "carbohydrates": 121,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 69
+        }
+      },
+      {
+        "id": "chicken-tenders-basket-lemon-pepper-fries",
+        "name": "Chicken Tenders Basket w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-baskets-chicken-tenders-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1139,
+          "fat": 44,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 184,
+          "sodium": 3866,
+          "carbohydrates": 121,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 69
+        }
+      },
+      {
+        "id": "chicken-tenders-basket-sweet-potato-fries",
+        "name": "Chicken Tenders Basket w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-baskets-chicken-tenders-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1073,
+          "fat": 40,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 183,
+          "sodium": 2005,
+          "carbohydrates": 108,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 65
+        }
+      },
+      {
+        "id": "wings-basket-regular-fries",
+        "name": "Wings Basket w/ Regular Fries",
+        "image": "/images/menu/fried-baskets-wings-regular.webp",
+        "nutrition": {
+          "calories": 1692,
+          "fat": 108,
+          "saturatedFat": 25,
+          "transFat": 0,
+          "cholesterol": 412,
+          "sodium": 3471,
+          "carbohydrates": 99,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 87
+        }
+      },
+      {
+        "id": "wings-basket-cajun-fries",
+        "name": "Wings Basket w/ Cajun Fries",
+        "image": "/images/menu/fried-baskets-wings-cajun.webp",
+        "nutrition": {
+          "calories": 1726,
+          "fat": 108,
+          "saturatedFat": 25,
+          "transFat": 0,
+          "cholesterol": 412,
+          "sodium": 4053,
+          "carbohydrates": 105,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 88
+        }
+      },
+      {
+        "id": "wings-basket-lemon-pepper-fries",
+        "name": "Wings Basket w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-baskets-wings-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1725,
+          "fat": 108,
+          "saturatedFat": 25,
+          "transFat": 0,
+          "cholesterol": 412,
+          "sodium": 4198,
+          "carbohydrates": 106,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 88
+        }
+      },
+      {
+        "id": "wings-basket-sweet-potato-fries",
+        "name": "Wings Basket w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-baskets-wings-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1659,
+          "fat": 104,
+          "saturatedFat": 23,
+          "transFat": 0,
+          "cholesterol": 412,
+          "sodium": 2337,
+          "carbohydrates": 92,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 84
+        }
+      },
+      {
+        "id": "fishermans-platter-regular-fries",
+        "name": "Fisherman's Platter w/ Regular Fries",
+        "image": "/images/menu/fried-baskets-fishermans-platter-regular.webp",
+        "nutrition": {
+          "calories": 1422,
+          "fat": 70,
+          "saturatedFat": 10,
+          "transFat": 0,
+          "cholesterol": 367,
+          "sodium": 3642,
+          "carbohydrates": 140,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 62
+        }
+      },
+      {
+        "id": "fishermans-platter-cajun-fries",
+        "name": "Fisherman's Platter w/ Cajun Fries",
+        "image": "/images/menu/fried-baskets-fishermans-platter-cajun.webp",
+        "nutrition": {
+          "calories": 1456,
+          "fat": 71,
+          "saturatedFat": 10,
+          "transFat": 0,
+          "cholesterol": 367,
+          "sodium": 4224,
+          "carbohydrates": 146,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 63
+        }
+      },
+      {
+        "id": "fishermans-platter-lemon-pepper-fries",
+        "name": "Fisherman's Platter w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-baskets-fishermans-platter-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1455,
+          "fat": 71,
+          "saturatedFat": 10,
+          "transFat": 0,
+          "cholesterol": 367,
+          "sodium": 4369,
+          "carbohydrates": 146,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 62
+        }
+      },
+      {
+        "id": "fishermans-platter-sweet-potato-fries",
+        "name": "Fisherman's Platter w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-baskets-fishermans-platter-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1388,
+          "fat": 67,
+          "saturatedFat": 9,
+          "transFat": 0,
+          "cholesterol": 367,
+          "sodium": 2508,
+          "carbohydrates": 133,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 59
+        }
+      }
+    ],
+    "wings": [
+      {
+        "id": "wings-6pcs",
+        "name": "Wings, 6pcs",
+        "image": "/images/menu/wings-6pcs.webp",
+        "nutrition": {
+          "calories": 1225,
+          "fat": 88,
+          "saturatedFat": 23,
+          "transFat": 0,
+          "cholesterol": 412,
+          "sodium": 1756,
+          "carbohydrates": 29,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 81
+        }
+      },
+      {
+        "id": "wings-12pcs",
+        "name": "Wings, 12pcs",
+        "image": "/images/menu/wings-12pcs.webp",
+        "nutrition": {
+          "calories": 2450,
+          "fat": 175,
+          "saturatedFat": 46,
+          "transFat": 0,
+          "cholesterol": 824,
+          "sodium": 3513,
+          "carbohydrates": 58,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 161
+        }
+      },
+      {
+        "id": "wings-24pcs",
+        "name": "Wings, 24pcs",
+        "image": "/images/menu/wings-24pcs.webp",
+        "nutrition": {
+          "calories": 4900,
+          "fat": 351,
+          "saturatedFat": 92,
+          "transFat": 1,
+          "cholesterol": 1647,
+          "sodium": 7026,
+          "carbohydrates": 116,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 322
+        }
+      }
+    ],
+    "sandwiches": [
+      {
+        "id": "shrimp-poboy-regular-fries",
+        "name": "Shrimp Po'boy w/ Regular Fries",
+        "image": "/images/menu/sandwiches-shrimp-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1104,
+          "fat": 55,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 86,
+          "sodium": 2867,
+          "carbohydrates": 134,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-cajun-fries",
+        "name": "Shrimp Po'boy w/ Cajun Fries",
+        "image": "/images/menu/sandwiches-shrimp-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1138,
+          "fat": 56,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 86,
+          "sodium": 3449,
+          "carbohydrates": 141,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-lemon-pepper-fries",
+        "name": "Shrimp Po'boy w/ Lemon Pepper Fries",
+        "image": "/images/menu/sandwiches-shrimp-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1138,
+          "fat": 56,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 86,
+          "sodium": 3594,
+          "carbohydrates": 141,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-sweet-potato-fries",
+        "name": "Shrimp Po'boy w/ Sweet Potato Fries",
+        "image": "/images/menu/sandwiches-shrimp-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1071,
+          "fat": 52,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 86,
+          "sodium": 1733,
+          "carbohydrates": 128,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 18
+        }
+      },
+      {
+        "id": "chicken-poboy-regular-fries",
+        "name": "Chicken Po'boy w/ Regular Fries",
+        "image": "/images/menu/sandwiches-chicken-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1168,
+          "fat": 55,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 83,
+          "sodium": 2985,
+          "carbohydrates": 135,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 38
+        }
+      },
+      {
+        "id": "chicken-poboy-cajun-fries",
+        "name": "Chicken Po'boy w/ Cajun Fries",
+        "image": "/images/menu/sandwiches-chicken-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1201,
+          "fat": 55,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 83,
+          "sodium": 3567,
+          "carbohydrates": 141,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 39
+        }
+      },
+      {
+        "id": "chicken-poboy-lemon-pepper-fries",
+        "name": "Chicken Po'boy w/ Lemon Pepper Fries",
+        "image": "/images/menu/sandwiches-chicken-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1201,
+          "fat": 55,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 83,
+          "sodium": 3712,
+          "carbohydrates": 142,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 39
+        }
+      },
+      {
+        "id": "chicken-poboy-sweet-potato-fries",
+        "name": "Chicken Po'boy w/ Sweet Potato Fries",
+        "image": "/images/menu/sandwiches-chicken-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1134,
+          "fat": 51,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 83,
+          "sodium": 1851,
+          "carbohydrates": 128,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 35
+        }
+      },
+      {
+        "id": "calamari-poboy-regular-fries",
+        "name": "Calamari Po'boy w/ Regular Fries",
+        "image": "/images/menu/sandwiches-calamari-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1150,
+          "fat": 58,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 133,
+          "sodium": 3155,
+          "carbohydrates": 133,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 29
+        }
+      },
+      {
+        "id": "calamari-poboy-cajun-fries",
+        "name": "Calamari Po'boy w/ Cajun Fries",
+        "image": "/images/menu/sandwiches-calamari-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1184,
+          "fat": 58,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 133,
+          "sodium": 3737,
+          "carbohydrates": 139,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 30
+        }
+      },
+      {
+        "id": "calamari-poboy-lemon-pepper-fries",
+        "name": "Calamari Po'boy w/ Lemon Pepper Fries",
+        "image": "/images/menu/sandwiches-calamari-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1184,
+          "fat": 58,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 133,
+          "sodium": 3882,
+          "carbohydrates": 140,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 29
+        }
+      },
+      {
+        "id": "calamari-poboy-sweet-potato-fries",
+        "name": "Calamari Po'boy w/ Sweet Potato Fries",
+        "image": "/images/menu/sandwiches-calamari-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1117,
+          "fat": 54,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 133,
+          "sodium": 2021,
+          "carbohydrates": 127,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 26
+        }
+      },
+      {
+        "id": "fish-poboy-regular-fries",
+        "name": "Fish Po'boy w/ Regular Fries",
+        "image": "/images/menu/sandwiches-fish-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1308,
+          "fat": 65,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 151,
+          "sodium": 2971,
+          "carbohydrates": 143,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 42
+        }
+      },
+      {
+        "id": "fish-poboy-cajun-fries",
+        "name": "Fish Po'boy w/ Cajun Fries",
+        "image": "/images/menu/sandwiches-fish-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1342,
+          "fat": 66,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 152,
+          "sodium": 3553,
+          "carbohydrates": 149,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 43
+        }
+      },
+      {
+        "id": "fish-poboy-lemon-pepper-fries",
+        "name": "Fish Po'boy w/ Lemon Pepper Fries",
+        "image": "/images/menu/sandwiches-fish-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1342,
+          "fat": 65,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 152,
+          "sodium": 3698,
+          "carbohydrates": 150,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 42
+        }
+      },
+      {
+        "id": "fish-poboy-sweet-potato-fries",
+        "name": "Fish Po'boy w/ Sweet Potato Fries",
+        "image": "/images/menu/sandwiches-fish-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1275,
+          "fat": 62,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 151,
+          "sodium": 1837,
+          "carbohydrates": 136,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 39
+        }
+      },
+      {
+        "id": "soft-shell-crab-poboy-regular-fries",
+        "name": "Soft Shell Crab Po'boy w/ Regular Fries",
+        "image": "/images/menu/sandwiches-soft-shell-crab-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1168,
+          "fat": 61,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 62,
+          "sodium": 2773,
+          "carbohydrates": 138,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 21
+        }
+      },
+      {
+        "id": "soft-shell-crab-poboy-cajun-fries",
+        "name": "Soft Shell Crab Po'boy w/ Cajun Fries",
+        "image": "/images/menu/sandwiches-soft-shell-crab-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1202,
+          "fat": 62,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 62,
+          "sodium": 3356,
+          "carbohydrates": 144,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 21
+        }
+      },
+      {
+        "id": "soft-shell-crab-poboy-lemon-pepper-fries",
+        "name": "Soft Shell Crab Po'boy w/ Lemon Pepper Fries",
+        "image": "/images/menu/sandwiches-soft-shell-crab-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1202,
+          "fat": 62,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 63,
+          "sodium": 3500,
+          "carbohydrates": 145,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 21
+        }
+      },
+      {
+        "id": "soft-shell-crab-poboy-sweet-potato-fries",
+        "name": "Soft Shell Crab Po'boy w/ Sweet Potato Fries",
+        "image": "/images/menu/sandwiches-soft-shell-crab-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1135,
+          "fat": 58,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 62,
+          "sodium": 1639,
+          "carbohydrates": 131,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 17
+        }
+      },
+      {
+        "id": "lobster-roll-regular-fries",
+        "name": "Lobster Roll w/ Regular Fries",
+        "image": "/images/menu/sandwiches-lobster-roll-regular.webp",
+        "nutrition": {
+          "calories": 1609,
+          "fat": 116,
+          "saturatedFat": 20,
+          "transFat": 0,
+          "cholesterol": 265,
+          "sodium": 3584,
+          "carbohydrates": 100,
+          "fiber": 8,
+          "sugars": 7,
+          "protein": 39
+        }
+      },
+      {
+        "id": "lobster-roll-cajun-fries",
+        "name": "Lobster Roll w/ Cajun Fries",
+        "image": "/images/menu/sandwiches-lobster-roll-cajun.webp",
+        "nutrition": {
+          "calories": 1643,
+          "fat": 116,
+          "saturatedFat": 21,
+          "transFat": 0,
+          "cholesterol": 265,
+          "sodium": 4166,
+          "carbohydrates": 106,
+          "fiber": 9,
+          "sugars": 11,
+          "protein": 40
+        }
+      },
+      {
+        "id": "lobster-roll-lemon-pepper-fries",
+        "name": "Lobster Roll w/ Lemon Pepper Fries",
+        "image": "/images/menu/sandwiches-lobster-roll-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1643,
+          "fat": 116,
+          "saturatedFat": 21,
+          "transFat": 0,
+          "cholesterol": 265,
+          "sodium": 4311,
+          "carbohydrates": 106,
+          "fiber": 8,
+          "sugars": 12,
+          "protein": 39
+        }
+      },
+      {
+        "id": "lobster-roll-sweet-potato-fries",
+        "name": "Lobster Roll w/ Sweet Potato Fries",
+        "image": "/images/menu/sandwiches-lobster-roll-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1576,
+          "fat": 113,
+          "saturatedFat": 19,
+          "transFat": 0,
+          "cholesterol": 265,
+          "sodium": 2450,
+          "carbohydrates": 93,
+          "fiber": 11,
+          "sugars": 34,
+          "protein": 36
+        }
+      },
+      {
+        "id": "hot-chicken-sandwich",
+        "name": "Hot Chicken Sandwich",
+        "image": "/images/menu/sandwiches-hot-chicken.webp",
+        "nutrition": {
+          "calories": 1059,
+          "fat": 53,
+          "saturatedFat": 11,
+          "transFat": 0,
+          "cholesterol": 120,
+          "sodium": 2309,
+          "carbohydrates": 81,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 65
+        }
+      }
+    ],
+    "lunch-specials": [
+      {
+        "id": "seafood-boiler-lunch-head-on-shrimp",
+        "name": "Head On Shrimp",
+        "image": "/images/menu/lunch-specials-seafood-boiler-head-on-shrimp.webp",
+        "nutrition": {
+          "calories": 186,
+          "fat": 2,
+          "saturatedFat": 1,
+          "transFat": 0,
+          "cholesterol": 245,
+          "sodium": 194,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 42
+        }
+      },
+      {
+        "id": "seafood-boiler-lunch-ez-peel-shrimp",
+        "name": "EZ Peel Shrimp",
+        "image": "/images/menu/lunch-specials-seafood-boiler-ez-peel-shrimp.webp",
+        "nutrition": {
+          "calories": 110,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 164,
+          "sodium": 475,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 24
+        }
+      },
+      {
+        "id": "seafood-boiler-lunch-clams",
+        "name": "Clams",
+        "image": "/images/menu/lunch-specials-seafood-boiler-clams.webp",
+        "nutrition": {
+          "calories": 98,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 34,
+          "sodium": 64,
+          "carbohydrates": 4,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 17
+        }
+      },
+      {
+        "id": "seafood-boiler-lunch-crawfish",
+        "name": "Crawfish",
+        "image": "/images/menu/lunch-specials-seafood-boiler-crawfish.webp",
+        "nutrition": {
+          "calories": 38,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 47,
+          "sodium": 38,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 8
+        }
+      },
+      {
+        "id": "seafood-boiler-lunch-mussels",
+        "name": "Mussels",
+        "image": "/images/menu/lunch-specials-seafood-boiler-mussels.webp",
+        "nutrition": {
+          "calories": 103,
+          "fat": 3,
+          "saturatedFat": 1,
+          "transFat": 0,
+          "cholesterol": 51,
+          "sodium": 553,
+          "carbohydrates": 5,
+          "fiber": 0,
+          "sugars": 1,
+          "protein": 15
+        }
+      },
+      {
+        "id": "lunch-specials-sauce-capt-loui",
+        "name": "Cap't Loui",
+        "image": "/images/menu/sauce-captloui.jpg",
+        "nutrition": {
+          "calories": 848,
+          "fat": 80,
+          "saturatedFat": 32,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 3162,
+          "carbohydrates": 26,
+          "fiber": 2,
+          "sugars": 12,
+          "protein": 3
+        }
+      },
+      {
+        "id": "lunch-specials-sauce-lemon-pepper",
+        "name": "Lemon Pepper",
+        "image": "/images/menu/sauce-lemon-pepper.jpg",
+        "nutrition": {
+          "calories": 848,
+          "fat": 79,
+          "saturatedFat": 32,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 3549,
+          "carbohydrates": 27,
+          "fiber": 1,
+          "sugars": 15,
+          "protein": 2
+        }
+      },
+      {
+        "id": "lunch-specials-spice-mild",
+        "name": "Mild",
+        "image": "/images/menu/spice-mild.jpg",
+        "nutrition": {
+          "calories": 0,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 0,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 0
+        }
+      },
+      {
+        "id": "lunch-specials-spice-medium",
+        "name": "Medium",
+        "image": "/images/menu/spice-medium.jpg",
+        "nutrition": {
+          "calories": 6,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 1,
+          "carbohydrates": 1,
+          "fiber": 1,
+          "sugars": 0,
+          "protein": 0
+        }
+      },
+      {
+        "id": "lunch-specials-spice-hot",
+        "name": "Hot",
+        "image": "/images/menu/spice-hot.jpg",
+        "nutrition": {
+          "calories": 13,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 1,
+          "carbohydrates": 2,
+          "fiber": 1,
+          "sugars": 0,
+          "protein": 0
+        }
+      },
+      {
+        "id": "lunch-specials-spice-extra-hot",
+        "name": "Extra Hot",
+        "image": "/images/menu/spice-extra-hot.jpg",
+        "nutrition": {
+          "calories": 19,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 2,
+          "carbohydrates": 3,
+          "fiber": 2,
+          "sugars": 1,
+          "protein": 1
+        }
+      },
+      {
+        "id": "lunch-specials-spice-2x-hot",
+        "name": "2x Hot",
+        "image": "/images/menu/spice-2x-hot.jpg",
+        "nutrition": {
+          "calories": 25,
+          "fat": 1,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 2,
+          "carbohydrates": 5,
+          "fiber": 2,
+          "sugars": 1,
+          "protein": 1
+        }
+      },
+      {
+        "id": "lunch-specials-spice-inferno",
+        "name": "Inferno",
+        "image": "/images/menu/spice-inferno.jpg",
+        "nutrition": {
+          "calories": 38,
+          "fat": 2,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 4,
+          "carbohydrates": 7,
+          "fiber": 3,
+          "sugars": 1,
+          "protein": 1
+        }
+      },
+      {
+        "id": "lunch-specials-sides-corn-potato",
+        "name": "Corn & Potato",
+        "image": "/images/menu/sides-corn-on-the-cob.webp",
+        "nutrition": {
+          "calories": 275,
+          "fat": 24,
+          "saturatedFat": 10,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 257,
+          "carbohydrates": 14,
+          "fiber": 2,
+          "sugars": 2,
+          "protein": 2
+        }
+      },
+      {
+        "id": "lunch-specials-sides-noodles-in-bag",
+        "name": "Noodles (in bag)",
+        "image": "/images/menu/sides-garlic-noodles.webp",
+        "nutrition": {
+          "calories": 862,
+          "fat": 13,
+          "saturatedFat": 1,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 0,
+          "carbohydrates": 166,
+          "fiber": 8,
+          "sugars": 4,
+          "protein": 33
+        }
+      },
+      {
+        "id": "lunch-specials-sides-garlic-noodles",
+        "name": "Garlic Noodles",
+        "image": "/images/menu/sides-garlic-noodles.webp",
+        "nutrition": {
+          "calories": 1153,
+          "fat": 35,
+          "saturatedFat": 11,
+          "transFat": 0,
+          "cholesterol": 10,
+          "sodium": 1359,
+          "carbohydrates": 181,
+          "fiber": 9,
+          "sugars": 9,
+          "protein": 39
+        }
+      },
+      {
+        "id": "shrimp-basket-lunch-regular-fries",
+        "name": "Shrimp Basket Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-shrimp-basket-regular.webp",
+        "nutrition": {
+          "calories": 723,
+          "fat": 34,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 101,
+          "sodium": 2317,
+          "carbohydrates": 93,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 17
+        }
+      },
+      {
+        "id": "shrimp-basket-lunch-cajun-fries",
+        "name": "Shrimp Basket Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-shrimp-basket-cajun.webp",
+        "nutrition": {
+          "calories": 757,
+          "fat": 34,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 101,
+          "sodium": 2899,
+          "carbohydrates": 99,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 18
+        }
+      },
+      {
+        "id": "shrimp-basket-lunch-lemon-pepper-fries",
+        "name": "Shrimp Basket Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-shrimp-basket-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 757,
+          "fat": 34,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 101,
+          "sodium": 3044,
+          "carbohydrates": 100,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 18
+        }
+      },
+      {
+        "id": "shrimp-basket-lunch-sweet-potato-fries",
+        "name": "Shrimp Basket Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-shrimp-basket-sweet-potato.webp",
+        "nutrition": {
+          "calories": 690,
+          "fat": 30,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 101,
+          "sodium": 1183,
+          "carbohydrates": 86,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 14
+        }
+      },
+      {
+        "id": "fish-basket-lunch-regular-fries",
+        "name": "Fish Basket Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-fish-basket-regular.webp",
+        "nutrition": {
+          "calories": 863,
+          "fat": 40,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 142,
+          "sodium": 2270,
+          "carbohydrates": 96,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 35
+        }
+      },
+      {
+        "id": "fish-basket-lunch-cajun-fries",
+        "name": "Fish Basket Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-fish-basket-cajun.webp",
+        "nutrition": {
+          "calories": 897,
+          "fat": 40,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 142,
+          "sodium": 2853,
+          "carbohydrates": 102,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 36
+        }
+      },
+      {
+        "id": "fish-basket-lunch-lemon-pepper-fries",
+        "name": "Fish Basket Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-fish-basket-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 897,
+          "fat": 40,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 142,
+          "sodium": 2997,
+          "carbohydrates": 103,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 35
+        }
+      },
+      {
+        "id": "fish-basket-lunch-sweet-potato-fries",
+        "name": "Fish Basket Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-fish-basket-sweet-potato.webp",
+        "nutrition": {
+          "calories": 830,
+          "fat": 36,
+          "saturatedFat": 3,
+          "transFat": 0,
+          "cholesterol": 142,
+          "sodium": 1136,
+          "carbohydrates": 89,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 32
+        }
+      },
+      {
+        "id": "calamari-basket-lunch-regular-fries",
+        "name": "Calamari Basket Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-calamari-basket-regular.webp",
+        "nutrition": {
+          "calories": 705,
+          "fat": 32,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 2454,
+          "carbohydrates": 86,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 22
+        }
+      },
+      {
+        "id": "calamari-basket-lunch-cajun-fries",
+        "name": "Calamari Basket Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-calamari-basket-cajun.webp",
+        "nutrition": {
+          "calories": 739,
+          "fat": 33,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 3036,
+          "carbohydrates": 92,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 23
+        }
+      },
+      {
+        "id": "calamari-basket-lunch-lemon-pepper-fries",
+        "name": "Calamari Basket Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-calamari-basket-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 739,
+          "fat": 33,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 3181,
+          "carbohydrates": 93,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 23
+        }
+      },
+      {
+        "id": "calamari-basket-lunch-sweet-potato-fries",
+        "name": "Calamari Basket Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-calamari-basket-sweet-potato.webp",
+        "nutrition": {
+          "calories": 672,
+          "fat": 29,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 1320,
+          "carbohydrates": 79,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 19
+        }
+      },
+      {
+        "id": "chicken-tenders-lunch-regular-fries",
+        "name": "Chicken Tenders Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-chicken-tenders-regular.webp",
+        "nutrition": {
+          "calories": 978,
+          "fat": 39,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 147,
+          "sodium": 2854,
+          "carbohydrates": 106,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 56
+        }
+      },
+      {
+        "id": "chicken-tenders-lunch-cajun-fries",
+        "name": "Chicken Tenders Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-chicken-tenders-cajun.webp",
+        "nutrition": {
+          "calories": 1012,
+          "fat": 39,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 147,
+          "sodium": 3436,
+          "carbohydrates": 112,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 57
+        }
+      },
+      {
+        "id": "chicken-tenders-lunch-lemon-pepper-fries",
+        "name": "Chicken Tenders Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-chicken-tenders-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1012,
+          "fat": 39,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 147,
+          "sodium": 3581,
+          "carbohydrates": 112,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 57
+        }
+      },
+      {
+        "id": "chicken-tenders-lunch-sweet-potato-fries",
+        "name": "Chicken Tenders Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-chicken-tenders-sweet-potato.webp",
+        "nutrition": {
+          "calories": 945,
+          "fat": 36,
+          "saturatedFat": 3,
+          "transFat": 0,
+          "cholesterol": 147,
+          "sodium": 1720,
+          "carbohydrates": 99,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 53
+        }
+      },
+      {
+        "id": "wings-basket-lunch-regular-fries",
+        "name": "Wings Basket Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-wings-basket-regular.webp",
+        "nutrition": {
+          "calories": 1284,
+          "fat": 78,
+          "saturatedFat": 17,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 2885,
+          "carbohydrates": 89,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 60
+        }
+      },
+      {
+        "id": "wings-basket-lunch-cajun-fries",
+        "name": "Wings Basket Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-wings-basket-cajun.webp",
+        "nutrition": {
+          "calories": 1317,
+          "fat": 79,
+          "saturatedFat": 17,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 3467,
+          "carbohydrates": 96,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 61
+        }
+      },
+      {
+        "id": "wings-basket-lunch-lemon-pepper-fries",
+        "name": "Wings Basket Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-wings-basket-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1317,
+          "fat": 79,
+          "saturatedFat": 17,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 3612,
+          "carbohydrates": 96,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 61
+        }
+      },
+      {
+        "id": "wings-basket-lunch-sweet-potato-fries",
+        "name": "Wings Basket Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-wings-basket-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1250,
+          "fat": 75,
+          "saturatedFat": 15,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 1751,
+          "carbohydrates": 83,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 57
+        }
+      },
+      {
+        "id": "shrimp-poboy-lunch-regular-fries",
+        "name": "Shrimp Po'boy Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-shrimp-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1067,
+          "fat": 51,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 84,
+          "sodium": 2825,
+          "carbohydrates": 134,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-lunch-cajun-fries",
+        "name": "Shrimp Po'boy Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-shrimp-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1100,
+          "fat": 52,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 84,
+          "sodium": 3407,
+          "carbohydrates": 141,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-lunch-lemon-pepper-fries",
+        "name": "Shrimp Po'boy Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-shrimp-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1100,
+          "fat": 51,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 84,
+          "sodium": 3552,
+          "carbohydrates": 141,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-lunch-sweet-potato-fries",
+        "name": "Shrimp Po'boy Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-shrimp-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1033,
+          "fat": 48,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 84,
+          "sodium": 1691,
+          "carbohydrates": 128,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 18
+        }
+      },
+      {
+        "id": "chicken-poboy-lunch-regular-fries",
+        "name": "Chicken Po'boy Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-chicken-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1130,
+          "fat": 50,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 81,
+          "sodium": 2943,
+          "carbohydrates": 135,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 38
+        }
+      },
+      {
+        "id": "chicken-poboy-lunch-cajun-fries",
+        "name": "Chicken Po'boy Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-chicken-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1164,
+          "fat": 51,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 82,
+          "sodium": 3525,
+          "carbohydrates": 141,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 39
+        }
+      },
+      {
+        "id": "chicken-poboy-lunch-lemon-pepper-fries",
+        "name": "Chicken Po'boy Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-chicken-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1164,
+          "fat": 51,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 82,
+          "sodium": 3670,
+          "carbohydrates": 142,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 39
+        }
+      },
+      {
+        "id": "chicken-poboy-lunch-sweet-potato-fries",
+        "name": "Chicken Po'boy Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-chicken-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1097,
+          "fat": 47,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 81,
+          "sodium": 1809,
+          "carbohydrates": 128,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 35
+        }
+      },
+      {
+        "id": "calamari-lunch-regular-fries",
+        "name": "Calamari Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-calamari-regular.webp",
+        "nutrition": {
+          "calories": 1113,
+          "fat": 54,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 131,
+          "sodium": 3113,
+          "carbohydrates": 133,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 29
+        }
+      },
+      {
+        "id": "calamari-lunch-cajun-fries",
+        "name": "Calamari Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-calamari-cajun.webp",
+        "nutrition": {
+          "calories": 1147,
+          "fat": 54,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 131,
+          "sodium": 3695,
+          "carbohydrates": 139,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 30
+        }
+      },
+      {
+        "id": "calamari-lunch-lemon-pepper-fries",
+        "name": "Calamari Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-calamari-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1146,
+          "fat": 54,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 131,
+          "sodium": 3840,
+          "carbohydrates": 140,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 30
+        }
+      },
+      {
+        "id": "calamari-lunch-sweet-potato-fries",
+        "name": "Calamari Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-calamari-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1080,
+          "fat": 50,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 131,
+          "sodium": 1979,
+          "carbohydrates": 127,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 26
+        }
+      },
+      {
+        "id": "fish-poboy-lunch-regular-fries",
+        "name": "Fish Po'boy Lunch Special w/ Regular Fries",
+        "image": "/images/menu/lunch-specials-fish-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1271,
+          "fat": 61,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 150,
+          "sodium": 2929,
+          "carbohydrates": 143,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 42
+        }
+      },
+      {
+        "id": "fish-poboy-lunch-cajun-fries",
+        "name": "Fish Po'boy Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/lunch-specials-fish-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1304,
+          "fat": 61,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 150,
+          "sodium": 3511,
+          "carbohydrates": 149,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 43
+        }
+      },
+      {
+        "id": "fish-poboy-lunch-lemon-pepper-fries",
+        "name": "Fish Po'boy Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/lunch-specials-fish-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1304,
+          "fat": 61,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 150,
+          "sodium": 3656,
+          "carbohydrates": 150,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 42
+        }
+      },
+      {
+        "id": "fish-poboy-lunch-sweet-potato-fries",
+        "name": "Fish Po'boy Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/lunch-specials-fish-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1237,
+          "fat": 58,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 150,
+          "sodium": 1795,
+          "carbohydrates": 136,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 39
+        }
+      },
+      {
+        "id": "cajun-pasta",
+        "name": "Cajun Pasta",
+        "image": "/images/menu/lunch-specials-cajun-pasta.webp",
+        "nutrition": {
+          "calories": 1404,
+          "fat": 40,
+          "saturatedFat": 11,
+          "transFat": 0,
+          "cholesterol": 195,
+          "sodium": 3425,
+          "carbohydrates": 203,
+          "fiber": 11,
+          "sugars": 17,
+          "protein": 66
+        }
+      }
+    ],
+    "fried-basket-lunch-special": [
+      {
+        "id": "shrimp-basket-lunch-special-regular-fries",
+        "name": "Shrimp Basket Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-shrimp-regular.webp",
+        "nutrition": {
+          "calories": 723,
+          "fat": 34,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 101,
+          "sodium": 2317,
+          "carbohydrates": 93,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 17
+        }
+      },
+      {
+        "id": "shrimp-basket-lunch-special-cajun-fries",
+        "name": "Shrimp Basket Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-shrimp-cajun.webp",
+        "nutrition": {
+          "calories": 757,
+          "fat": 34,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 101,
+          "sodium": 2899,
+          "carbohydrates": 99,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 18
+        }
+      },
+      {
+        "id": "shrimp-basket-lunch-special-lemon-pepper-fries",
+        "name": "Shrimp Basket Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-shrimp-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 757,
+          "fat": 34,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 101,
+          "sodium": 3044,
+          "carbohydrates": 100,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 18
+        }
+      },
+      {
+        "id": "shrimp-basket-lunch-special-sweet-potato-fries",
+        "name": "Shrimp Basket Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-shrimp-sweet-potato.webp",
+        "nutrition": {
+          "calories": 690,
+          "fat": 30,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 101,
+          "sodium": 1183,
+          "carbohydrates": 86,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 14
+        }
+      },
+      {
+        "id": "fish-basket-lunch-special-regular-fries",
+        "name": "Fish Basket Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-fish-regular.webp",
+        "nutrition": {
+          "calories": 863,
+          "fat": 40,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 142,
+          "sodium": 2270,
+          "carbohydrates": 96,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 35
+        }
+      },
+      {
+        "id": "fish-basket-lunch-special-cajun-fries",
+        "name": "Fish Basket Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-fish-cajun.webp",
+        "nutrition": {
+          "calories": 897,
+          "fat": 40,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 142,
+          "sodium": 2853,
+          "carbohydrates": 102,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 36
+        }
+      },
+      {
+        "id": "fish-basket-lunch-special-lemon-pepper-fries",
+        "name": "Fish Basket Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-fish-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 897,
+          "fat": 40,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 142,
+          "sodium": 2997,
+          "carbohydrates": 103,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 35
+        }
+      },
+      {
+        "id": "fish-basket-lunch-special-sweet-potato-fries",
+        "name": "Fish Basket Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-fish-sweet-potato.webp",
+        "nutrition": {
+          "calories": 830,
+          "fat": 36,
+          "saturatedFat": 3,
+          "transFat": 0,
+          "cholesterol": 142,
+          "sodium": 1136,
+          "carbohydrates": 89,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 32
+        }
+      },
+      {
+        "id": "calamari-basket-lunch-special-regular-fries",
+        "name": "Calamari Basket Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-calamari-regular.webp",
+        "nutrition": {
+          "calories": 705,
+          "fat": 32,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 2454,
+          "carbohydrates": 86,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 22
+        }
+      },
+      {
+        "id": "calamari-basket-lunch-special-cajun-fries",
+        "name": "Calamari Basket Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-calamari-cajun.webp",
+        "nutrition": {
+          "calories": 739,
+          "fat": 33,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 3036,
+          "carbohydrates": 92,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 23
+        }
+      },
+      {
+        "id": "calamari-basket-lunch-special-lemon-pepper-fries",
+        "name": "Calamari Basket Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-calamari-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 739,
+          "fat": 33,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 3181,
+          "carbohydrates": 93,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 23
+        }
+      },
+      {
+        "id": "calamari-basket-lunch-special-sweet-potato-fries",
+        "name": "Calamari Basket Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-calamari-sweet-potato.webp",
+        "nutrition": {
+          "calories": 672,
+          "fat": 29,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 123,
+          "sodium": 1320,
+          "carbohydrates": 79,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 19
+        }
+      },
+      {
+        "id": "chicken-tenders-lunch-special-regular-fries",
+        "name": "Chicken Tenders Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-chicken-tenders-regular.webp",
+        "nutrition": {
+          "calories": 978,
+          "fat": 39,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 147,
+          "sodium": 2854,
+          "carbohydrates": 106,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 56
+        }
+      },
+      {
+        "id": "chicken-tenders-lunch-special-cajun-fries",
+        "name": "Chicken Tenders Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-chicken-tenders-cajun.webp",
+        "nutrition": {
+          "calories": 1012,
+          "fat": 39,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 147,
+          "sodium": 3436,
+          "carbohydrates": 112,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 57
+        }
+      },
+      {
+        "id": "chicken-tenders-lunch-special-lemon-pepper-fries",
+        "name": "Chicken Tenders Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-chicken-tenders-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1012,
+          "fat": 39,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 147,
+          "sodium": 3581,
+          "carbohydrates": 112,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 57
+        }
+      },
+      {
+        "id": "chicken-tenders-lunch-special-sweet-potato-fries",
+        "name": "Chicken Tenders Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-chicken-tenders-sweet-potato.webp",
+        "nutrition": {
+          "calories": 945,
+          "fat": 36,
+          "saturatedFat": 3,
+          "transFat": 0,
+          "cholesterol": 147,
+          "sodium": 1720,
+          "carbohydrates": 99,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 53
+        }
+      },
+      {
+        "id": "wings-basket-lunch-special-regular-fries",
+        "name": "Wings Basket Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-wings-regular.webp",
+        "nutrition": {
+          "calories": 1284,
+          "fat": 78,
+          "saturatedFat": 17,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 2885,
+          "carbohydrates": 89,
+          "fiber": 7,
+          "sugars": 0,
+          "protein": 60
+        }
+      },
+      {
+        "id": "wings-basket-lunch-special-cajun-fries",
+        "name": "Wings Basket Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-wings-cajun.webp",
+        "nutrition": {
+          "calories": 1317,
+          "fat": 79,
+          "saturatedFat": 17,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 3467,
+          "carbohydrates": 96,
+          "fiber": 7,
+          "sugars": 4,
+          "protein": 61
+        }
+      },
+      {
+        "id": "wings-basket-lunch-special-lemon-pepper-fries",
+        "name": "Wings Basket Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-wings-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1317,
+          "fat": 79,
+          "saturatedFat": 17,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 3612,
+          "carbohydrates": 96,
+          "fiber": 7,
+          "sugars": 5,
+          "protein": 61
+        }
+      },
+      {
+        "id": "wings-basket-lunch-special-sweet-potato-fries",
+        "name": "Wings Basket Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-wings-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1250,
+          "fat": 75,
+          "saturatedFat": 15,
+          "transFat": 0,
+          "cholesterol": 275,
+          "sodium": 1751,
+          "carbohydrates": 83,
+          "fiber": 10,
+          "sugars": 27,
+          "protein": 57
+        }
+      },
+      {
+        "id": "shrimp-poboy-lunch-special-regular-fries",
+        "name": "Shrimp Po'boy Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-shrimp-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1067,
+          "fat": 51,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 84,
+          "sodium": 2825,
+          "carbohydrates": 134,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-lunch-special-cajun-fries",
+        "name": "Shrimp Po'boy Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-shrimp-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1100,
+          "fat": 52,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 84,
+          "sodium": 3407,
+          "carbohydrates": 141,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-lunch-special-lemon-pepper-fries",
+        "name": "Shrimp Po'boy Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-shrimp-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1100,
+          "fat": 51,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 84,
+          "sodium": 3552,
+          "carbohydrates": 141,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 22
+        }
+      },
+      {
+        "id": "shrimp-poboy-lunch-special-sweet-potato-fries",
+        "name": "Shrimp Po'boy Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-shrimp-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1033,
+          "fat": 48,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 84,
+          "sodium": 1691,
+          "carbohydrates": 128,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 18
+        }
+      },
+      {
+        "id": "chicken-poboy-lunch-special-regular-fries",
+        "name": "Chicken Po'boy Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-chicken-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1130,
+          "fat": 50,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 81,
+          "sodium": 2943,
+          "carbohydrates": 135,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 38
+        }
+      },
+      {
+        "id": "chicken-poboy-lunch-special-cajun-fries",
+        "name": "Chicken Po'boy Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-chicken-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1164,
+          "fat": 51,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 82,
+          "sodium": 3525,
+          "carbohydrates": 141,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 39
+        }
+      },
+      {
+        "id": "chicken-poboy-lunch-special-lemon-pepper-fries",
+        "name": "Chicken Po'boy Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-chicken-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1164,
+          "fat": 51,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 82,
+          "sodium": 3670,
+          "carbohydrates": 142,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 39
+        }
+      },
+      {
+        "id": "chicken-poboy-lunch-special-sweet-potato-fries",
+        "name": "Chicken Po'boy Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-chicken-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1097,
+          "fat": 47,
+          "saturatedFat": 4,
+          "transFat": 0,
+          "cholesterol": 81,
+          "sodium": 1809,
+          "carbohydrates": 128,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 35
+        }
+      },
+      {
+        "id": "calamari-lunch-special-regular-fries",
+        "name": "Calamari Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-calamari-lunch-regular.webp",
+        "nutrition": {
+          "calories": 1113,
+          "fat": 54,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 131,
+          "sodium": 3113,
+          "carbohydrates": 133,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 29
+        }
+      },
+      {
+        "id": "calamari-lunch-special-cajun-fries",
+        "name": "Calamari Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-calamari-lunch-cajun.webp",
+        "nutrition": {
+          "calories": 1147,
+          "fat": 54,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 131,
+          "sodium": 3695,
+          "carbohydrates": 139,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 30
+        }
+      },
+      {
+        "id": "calamari-lunch-special-lemon-pepper-fries",
+        "name": "Calamari Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-calamari-lunch-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1146,
+          "fat": 54,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 131,
+          "sodium": 3840,
+          "carbohydrates": 140,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 30
+        }
+      },
+      {
+        "id": "calamari-lunch-special-sweet-potato-fries",
+        "name": "Calamari Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-calamari-lunch-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1080,
+          "fat": 50,
+          "saturatedFat": 5,
+          "transFat": 0,
+          "cholesterol": 131,
+          "sodium": 1979,
+          "carbohydrates": 127,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 26
+        }
+      },
+      {
+        "id": "fish-poboy-lunch-special-regular-fries",
+        "name": "Fish Po'boy Lunch Special w/ Regular Fries",
+        "image": "/images/menu/fried-basket-lunch-special-fish-poboy-regular.webp",
+        "nutrition": {
+          "calories": 1271,
+          "fat": 61,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 150,
+          "sodium": 2929,
+          "carbohydrates": 143,
+          "fiber": 9,
+          "sugars": 7,
+          "protein": 42
+        }
+      },
+      {
+        "id": "fish-poboy-lunch-special-cajun-fries",
+        "name": "Fish Po'boy Lunch Special w/ Cajun Fries",
+        "image": "/images/menu/fried-basket-lunch-special-fish-poboy-cajun.webp",
+        "nutrition": {
+          "calories": 1304,
+          "fat": 61,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 150,
+          "sodium": 3511,
+          "carbohydrates": 149,
+          "fiber": 10,
+          "sugars": 11,
+          "protein": 43
+        }
+      },
+      {
+        "id": "fish-poboy-lunch-special-lemon-pepper-fries",
+        "name": "Fish Po'boy Lunch Special w/ Lemon Pepper Fries",
+        "image": "/images/menu/fried-basket-lunch-special-fish-poboy-lemon-pepper.webp",
+        "nutrition": {
+          "calories": 1304,
+          "fat": 61,
+          "saturatedFat": 8,
+          "transFat": 0,
+          "cholesterol": 150,
+          "sodium": 3656,
+          "carbohydrates": 150,
+          "fiber": 9,
+          "sugars": 12,
+          "protein": 42
+        }
+      },
+      {
+        "id": "fish-poboy-lunch-special-sweet-potato-fries",
+        "name": "Fish Po'boy Lunch Special w/ Sweet Potato Fries",
+        "image": "/images/menu/fried-basket-lunch-special-fish-poboy-sweet-potato.webp",
+        "nutrition": {
+          "calories": 1237,
+          "fat": 58,
+          "saturatedFat": 6,
+          "transFat": 0,
+          "cholesterol": 150,
+          "sodium": 1795,
+          "carbohydrates": 136,
+          "fiber": 12,
+          "sugars": 33,
+          "protein": 39
+        }
+      },
+      {
+        "id": "cajun-pasta",
+        "name": "Cajun Pasta",
+        "image": "/images/menu/fried-basket-lunch-special-cajun-pasta.webp",
+        "nutrition": {
+          "calories": 1404,
+          "fat": 40,
+          "saturatedFat": 11,
+          "transFat": 0,
+          "cholesterol": 195,
+          "sodium": 3425,
+          "carbohydrates": 203,
+          "fiber": 11,
+          "sugars": 17,
+          "protein": 66
+        }
+      }
+    ],
+    "desserts": [
+      {
+        "id": "funnel-cake-fries",
+        "name": "Funnel Cake Fries",
+        "image": "/images/menu/desserts-funnel-cake-fries.webp",
+        "nutrition": {
+          "calories": 460,
+          "fat": 8,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 40,
+          "sodium": 500,
+          "carbohydrates": 92,
+          "fiber": 1,
+          "sugars": 49,
+          "protein": 4
+        }
+      },
+      {
+        "id": "beignets",
+        "name": "Beignets",
+        "image": "/images/menu/desserts-beignets.webp",
+        "nutrition": {
+          "calories": 260,
+          "fat": 4,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 170,
+          "carbohydrates": 21,
+          "fiber": 0,
+          "sugars": 7,
+          "protein": 6
+        }
+      },
+      {
+        "id": "ice-cream",
+        "name": "Ice Cream",
+        "image": "/images/menu/desserts-ice-cream.webp",
+        "nutrition": {
+          "calories": 180,
+          "fat": 8,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 33,
+          "sodium": 65,
+          "carbohydrates": 24,
+          "fiber": 1,
+          "sugars": 21,
+          "protein": 3
+        }
+      },
+      {
+        "id": "churros",
+        "name": "Churros",
+        "image": "/images/menu/desserts-churros.webp",
+        "nutrition": {
+          "calories": 220,
+          "fat": 9,
+          "saturatedFat": 2,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 200,
+          "carbohydrates": 30,
+          "fiber": 1,
+          "sugars": 10,
+          "protein": 3
+        }
+      }
+    ],
+    "kids-meal": [
+      {
+        "id": "little-capt-meal-fish",
+        "name": "Little Cap't Meal (with Fried Fish)",
+        "image": "/images/menu/kids-meal-fish.webp",
+        "nutrition": {
+          "calories": 900,
+          "fat": 33,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 112,
+          "sodium": 1813,
+          "carbohydrates": 119,
+          "fiber": 4,
+          "sugars": 26,
+          "protein": 35
+        }
+      },
+      {
+        "id": "little-capt-meal-chicken",
+        "name": "Little Cap't Meal (with Fried Chicken)",
+        "image": "/images/menu/kids-meal-chicken.webp",
+        "nutrition": {
+          "calories": 909,
+          "fat": 30,
+          "saturatedFat": 7,
+          "transFat": 0,
+          "cholesterol": 99,
+          "sodium": 2023,
+          "carbohydrates": 121,
+          "fiber": 4,
+          "sugars": 26,
+          "protein": 41
+        }
+      }
+    ],
+    "drinks": [
+      {
+        "id": "lemonade",
+        "name": "Lemonade",
+        "image": "/images/menu/drinks-lemonade.webp",
+        "nutrition": {
+          "calories": 220,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 40,
+          "carbohydrates": 54,
+          "fiber": 0,
+          "sugars": 50,
+          "protein": 0
+        }
+      },
+      {
+        "id": "strawberry-lemonade",
+        "name": "Strawberry Lemonade",
+        "image": "/images/menu/drinks-strawberry-lemonade.webp",
+        "nutrition": {
+          "calories": 280,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 47,
+          "carbohydrates": 69,
+          "fiber": 0,
+          "sugars": 64,
+          "protein": 0
+        }
+      },
+      {
+        "id": "coke",
+        "name": "Coke",
+        "image": "/images/menu/drinks-coke.webp",
+        "nutrition": {
+          "calories": 140,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 45,
+          "carbohydrates": 39,
+          "fiber": 0,
+          "sugars": 39,
+          "protein": 0
+        }
+      },
+      {
+        "id": "diet-coke",
+        "name": "Diet Coke",
+        "image": "/images/menu/drinks-diet-coke.webp",
+        "nutrition": {
+          "calories": 0,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 40,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 0
+        }
+      },
+      {
+        "id": "sprite",
+        "name": "Sprite",
+        "image": "/images/menu/drinks-sprite.webp",
+        "nutrition": {
+          "calories": 140,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 65,
+          "carbohydrates": 38,
+          "fiber": 0,
+          "sugars": 38,
+          "protein": 0
+        }
+      },
+      {
+        "id": "gingerale",
+        "name": "Gingerale",
+        "image": "/images/menu/drinks-gingerale.webp",
+        "nutrition": {
+          "calories": 130,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 0,
+          "carbohydrates": 33,
+          "fiber": 0,
+          "sugars": 33,
+          "protein": 0
+        }
+      },
+      {
+        "id": "perrier",
+        "name": "Perrier",
+        "image": "/images/menu/drinks-perrier.webp",
+        "nutrition": {
+          "calories": 0,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 0,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 0
+        }
+      },
+      {
+        "id": "brisk-iced-tea",
+        "name": "Brisk Iced Tea",
+        "image": "/images/menu/drinks-brisk-iced-tea.webp",
+        "nutrition": {
+          "calories": 70,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 110,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 17,
+          "protein": 0
+        }
+      },
+      {
+        "id": "seltzer-water",
+        "name": "Seltzer Water",
+        "image": "/images/menu/drinks-seltzer-water.webp",
+        "nutrition": {
+          "calories": 0,
+          "fat": 0,
+          "saturatedFat": 0,
+          "transFat": 0,
+          "cholesterol": 0,
+          "sodium": 0,
+          "carbohydrates": 0,
+          "fiber": 0,
+          "sugars": 0,
+          "protein": 0
+        }
+      }
+    ]
+  }
+}

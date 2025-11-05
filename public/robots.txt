@@ -1,0 +1,15 @@
+# robots.txt for captloui.com
+
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Block crawlers from Next.js build files
+Disallow: /_next/
+Disallow: /_vercel/
+
+# Block API routes if you have any
+Disallow: /api/
+
+# Specify sitemap location
+Sitemap: https://captloui.com/sitemap.xml
