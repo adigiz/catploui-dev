@@ -3,6 +3,7 @@
 import Link from "next/link";
 import React, { useState } from "react";
 import ComingSoonPlaceholder from "@/components/ComingSoonPlaceholder";
+import PromoSection from "@/components/promo/PromoSection";
 import {
   MapPin,
   Phone,
@@ -345,6 +346,10 @@ export default function LocationDetail({ params, schema }: Props) {
                     <p className="text-primary text-xs sm:text-sm md:text-base">
                       {store.nearbyAttractions}
                     </p>
+                  </div>
+
+                  <div className="w-full mb-4 sm:mb-6">
+                    <PromoSection storeSlug={store.slug} />
                   </div>
 
                   <div className="flex flex-wrap gap-3 sm:gap-4 w-full sm:w-auto">

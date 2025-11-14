@@ -448,6 +448,205 @@ interface Store {
 
 - Los Angeles
 
+## Promo Management System
+
+### **Overview**
+
+The promo system allows you to display promotional images on store detail pages. Promos can be set for individual stores or applied nationwide to all stores. The promo section appears below the "Nearby Attractions" section on store pages.
+
+**Data File**: `src/data/promoData.json`
+
+**Component**: `src/components/promo/PromoSection.tsx`
+
+**Utilities**: `src/utils/promoUtils.ts`
+
+### **Promo Data Structure**
+
+```json
+{
+  "storePromos": {
+    "store-slug": [
+      {
+        "id": "promo-id",
+        "image": "/images/promo.webp"
+      }
+    ]
+  },
+  "nationwidePromos": [
+    {
+      "id": "nationwide-promo-id",
+      "image": "/images/promo.webp"
+    }
+  ]
+}
+```
+
+### **Promo Types**
+
+1. **Empty Promotion**: Store has no promos (section is hidden)
+2. **Single Promotion**: Store has one promo (displays as single image)
+3. **Multiple Promotions**: Store has multiple promos (displays as carousel with navigation)
+4. **Nationwide Promotion**: Applied to all stores (shown first, before store-specific promos)
+
+### **Adding Store-Specific Promos**
+
+**Step 1**: Open `src/data/promoData.json`
+
+**Step 2**: Add or update the store slug in `storePromos`:
+
+```json
+{
+  "storePromos": {
+    "stoneham-ma": [
+      {
+        "id": "stoneham-promo-1",
+        "image": "/images/promo.webp"
+      }
+    ],
+    "fortlee-nj": [
+      {
+        "id": "fortlee-promo-1",
+        "image": "/images/promo.webp"
+      },
+      {
+        "id": "fortlee-promo-2",
+        "image": "/images/promo.webp"
+      }
+    ]
+  }
+}
+```
+
+**Step 3**: Place promo images in `/public/images/` directory
+
+**Step 4**: Use the image path in the promo data (e.g., `/images/promo.webp`)
+
+### **Adding Nationwide Promos**
+
+Nationwide promos appear on all store pages before store-specific promos.
+
+**Step 1**: Open `src/data/promoData.json`
+
+**Step 2**: Add promos to the `nationwidePromos` array:
+
+```json
+{
+  "nationwidePromos": [
+    {
+      "id": "nationwide-1",
+      "image": "/images/promo.webp"
+    },
+    {
+      "id": "nationwide-2",
+      "image": "/images/promo-2.webp"
+    }
+  ]
+}
+```
+
+### **Promo Display Behavior**
+
+- **No Promos**: Section is hidden (returns `null`)
+- **Single Promo**: Displays as a single image with title
+- **Multiple Promos**: Displays as a carousel with:
+  - Previous/Next navigation buttons
+  - Dot indicators for each promo
+  - Current promo counter (e.g., "1 / 3")
+- **Nationwide + Store Promos**: Nationwide promos appear first, then store-specific promos
+
+### **Finding Store Slugs**
+
+Store slugs are defined in `src/utils/storeData.ts`. The slug is the `slug` field for each store:
+
+```typescript
+{
+  name: "Cap't Loui Stoneham",
+  slug: "stoneham-ma",  // This is the slug to use in promoData.json
+  // ... other fields
+}
+```
+
+### **Image Requirements**
+
+- **Format**: WebP preferred, but PNG/JPG also supported
+- **Location**: Place images in `/public/images/` directory
+- **Path**: Use absolute paths starting with `/images/`
+- **Size**: Images will be displayed at 400px height (responsive)
+- **Aspect Ratio**: Images will fill the available space
+
+### **Example: Complete Promo Setup**
+
+**Step 1**: Add promo image to `/public/images/promo.webp`
+
+**Step 2**: Update `promoData.json`:
+
+```json
+{
+  "storePromos": {
+    "stoneham-ma": [
+      {
+        "id": "stoneham-promo-1",
+        "image": "/images/promo.webp"
+      }
+    ]
+  },
+  "nationwidePromos": [
+    {
+      "id": "nationwide-1",
+      "image": "/images/promo.webp"
+    }
+  ]
+}
+```
+
+**Result**: 
+- Stoneham store will show 2 promos (nationwide first, then store-specific)
+- All other stores will show 1 promo (nationwide only)
+
+### **Removing Promos**
+
+**To remove store-specific promos**:
+- Set the store slug array to empty: `"store-slug": []`
+- Or remove the store slug entry entirely
+
+**To remove nationwide promos**:
+- Set `nationwidePromos` to empty array: `"nationwidePromos": []`
+
+**To hide promo section for a store**:
+- Ensure the store has no store-specific promos AND no nationwide promos exist
+
+### **Promo Section Layout**
+
+The promo section is positioned:
+- **Location**: Below "Nearby Attractions" section
+- **Layout**: Left side of 2-column grid (with video on right)
+- **Height**: Automatically matches the height of the video section
+- **Responsive**: Full width on mobile, half width on desktop
+
+### **Troubleshooting**
+
+**Promo not showing**:
+- Verify the store slug matches exactly (case-sensitive)
+- Check that the image path is correct and file exists
+- Ensure JSON syntax is valid (no trailing commas)
+- Check browser console for errors
+
+**Multiple promos not showing carousel**:
+- Verify you have more than one promo in the array
+- Check that the carousel navigation buttons are visible
+- Ensure the component is rendering (check if section is hidden)
+
+**Nationwide promos not appearing**:
+- Verify `nationwidePromos` array is not empty
+- Check that the promo data is being loaded correctly
+- Ensure the store page is using the `PromoSection` component
+
+**Image not loading**:
+- Verify image path starts with `/images/`
+- Check that image file exists in `/public/images/` directory
+- Ensure image format is supported (WebP, PNG, JPG)
+- Check Next.js image configuration for external domains (if using external URLs)
+
 ## Location Management System
 
 ### **Store Data Structure** (`src/utils/storeData.ts`)

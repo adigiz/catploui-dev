@@ -1,0 +1,13 @@
+{
+  "storePromos": {
+    "stoneham-ma": [],
+    "fortlee-nj": [],
+    "ny-ny": []
+  },
+  "nationwidePromos": [
+    {
+      "id": "nationwide-1",
+      "image": "/images/promo.webp"
+    }
+  ]
+}

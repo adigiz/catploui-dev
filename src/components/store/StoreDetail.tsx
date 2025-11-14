@@ -7,6 +7,7 @@ import type { JsonLdSchema } from "@/utils/jsonLdSchemas";
 import ComingSoonPlaceholder from "@/components/ComingSoonPlaceholder";
 import GeneralNewsletterEmbed from "@/components/GeneralNewsletterEmbed";
 import EdisonNewsletterEmbed from "@/components/EdisonNewsletterEmbed";
+import PromoSection from "@/components/promo/PromoSection";
 import {
   MapPin,
   Phone,
@@ -26,7 +27,6 @@ interface Props {
 export default function StoreDetail({ store, schema }: Props) {
   const [showYouTubeModal, setShowYouTubeModal] = useState(false);
 
-  // Extract YouTube video ID from URL
   const getYouTubeVideoId = (url: string) => {
     const regExp =
       /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
@@ -38,11 +38,7 @@ export default function StoreDetail({ store, schema }: Props) {
     ? getYouTubeVideoId(store.youtubeUrl)
     : null;
 
-  // Get YouTube thumbnail with fallback
   const getYouTubeThumbnail = (videoId: string) => {
-    // Use hqdefault.jpg which is more reliable than maxresdefault.jpg
-    // hqdefault.jpg: 480x360, always available
-    // maxresdefault.jpg: 1280x720, not always available
     return `https://img.youtube.com/vi/${videoId}/hqdefault.jpg`;
   };
 
@@ -67,7 +63,6 @@ export default function StoreDetail({ store, schema }: Props) {
               className="h-[110vh] sm:h-[110vh] lg:h-[80vh]"
             />
 
-            {/* Now Hiring Section for Coming Soon Stores */}
             <section className="py-16 bg-white from-primary/5 via-white to-primary/10">
               <div className="max-w-6xl mx-auto px-6 sm:px-6 lg:px-8">
                 <div className="bg-gradient-to-r from-primary to-primary/90 rounded-3xl p-8 sm:p-12 text-center text-white relative overflow-hidden">
@@ -192,98 +187,100 @@ export default function StoreDetail({ store, schema }: Props) {
         {!store.isComingSoon && (
           <section className="py-16 lg:py-24 bg-gray-50">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
-                {}
-                <div className="space-y-8">
-                  <div>
-                    <h2 className="text-2xl font-bold text-gray-900 mb-6">
-                      VISIT OUR LOCATION
-                    </h2>
+              <div className="space-y-12 lg:space-y-16">
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
+                  <div className="space-y-8">
+                    <div>
+                      <h2 className="text-2xl font-bold text-gray-900 mb-6">
+                        VISIT OUR LOCATION
+                      </h2>
 
-                    <div className="space-y-6">
-                      {}
-                      <div className="flex items-start gap-4">
-                        <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
-                          <MapPin className="w-6 h-6 text-primary" />
-                        </div>
-                        <div>
-                          <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                            Address
-                          </h3>
-                          <p className="text-gray-600 leading-relaxed">
-                            {store.address.split(",")[0]}
-                            <br />
-                            {store.address.split(",").slice(1).join(",").trim()}
-                          </p>
-                        </div>
-                      </div>
-
-                      <div className="flex items-start gap-4">
-                        <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
-                          <Phone className="w-6 h-6 text-primary" />
-                        </div>
-                        <div>
-                          <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                            Phone
-                          </h3>
-                          <a
-                            href={`tel:${store.phone}`}
-                            className="text-primary hover:text-primary/80 transition-colors text-lg font-medium"
-                          >
-                            {store.phone}
-                          </a>
-                        </div>
-                      </div>
-
-                      <div className="flex items-start gap-4">
-                        <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
-                          <Clock className="w-6 h-6 text-primary" />
-                        </div>
-                        <div>
-                          <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                            Hours
-                          </h3>
-                          <div className="text-gray-600 leading-relaxed">
-                            {store.hours.split("\n").map((line, index) => (
-                              <div key={index}>{line}</div>
-                            ))}
-                          </div>
-                        </div>
-                      </div>
-
-                      {store.openTableUrl && (
+                      <div className="space-y-6">
                         <div className="flex items-start gap-4">
                           <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
-                            <Calendar className="w-6 h-6 text-primary" />
+                            <MapPin className="w-6 h-6 text-primary" />
                           </div>
                           <div>
                             <h3 className="text-lg font-semibold text-gray-900 mb-2">
-                              Reservations
+                              Address
+                            </h3>
+                            <p className="text-gray-600 leading-relaxed">
+                              {store.address.split(",")[0]}
+                              <br />
+                              {store.address
+                                .split(",")
+                                .slice(1)
+                                .join(",")
+                                .trim()}
+                            </p>
+                          </div>
+                        </div>
+
+                        <div className="flex items-start gap-4">
+                          <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
+                            <Phone className="w-6 h-6 text-primary" />
+                          </div>
+                          <div>
+                            <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                              Phone
                             </h3>
                             <a
-                              href={store.openTableUrl}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="inline-flex items-center gap-2 bg-primary text-white font-medium py-3 px-6 rounded-full hover:bg-primary/90 transition-colors"
+                              href={`tel:${store.phone}`}
+                              className="text-primary hover:text-primary/80 transition-colors text-lg font-medium"
                             >
-                              <ExternalLink className="w-4 h-4" />
-                              Make Reservation
+                              {store.phone}
                             </a>
                           </div>
                         </div>
-                      )}
+
+                        <div className="flex items-start gap-4">
+                          <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
+                            <Clock className="w-6 h-6 text-primary" />
+                          </div>
+                          <div>
+                            <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                              Hours
+                            </h3>
+                            <div className="text-gray-600 leading-relaxed">
+                              {store.hours.split("\n").map((line, index) => (
+                                <div key={index}>{line}</div>
+                              ))}
+                            </div>
+                          </div>
+                        </div>
+
+                        {store.openTableUrl && (
+                          <div className="flex items-start gap-4">
+                            <div className="w-12 h-12 bg-primary/10 rounded-full flex items-center justify-center flex-shrink-0">
+                              <Calendar className="w-6 h-6 text-primary" />
+                            </div>
+                            <div>
+                              <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                                Reservations
+                              </h3>
+                              <a
+                                href={store.openTableUrl}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="inline-flex items-center gap-2 bg-primary text-white font-medium py-3 px-6 rounded-full hover:bg-primary/90 transition-colors"
+                              >
+                                <ExternalLink className="w-4 h-4" />
+                                Make Reservation
+                              </a>
+                            </div>
+                          </div>
+                        )}
+                      </div>
+                    </div>
+
+                    <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
+                      <h3 className="text-2xl font-bold text-gray-900 mb-6">
+                        NEARBY ATTRACTIONS
+                      </h3>
+                      <p className="text-gray-600">{store.nearbyAttractions}</p>
                     </div>
                   </div>
 
-                  <div className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100">
-                    <h3 className="text-2xl font-bold text-gray-900 mb-6">
-                      NEARBY ATTRACTIONS
-                    </h3>
-                    <p className="text-gray-600">{store.nearbyAttractions}</p>
-                  </div>
-                </div>
-
-                <div className="space-y-8">
                   <div>
                     <h3 className="text-2xl font-bold text-gray-900 mb-6">
                       FIND US
@@ -323,11 +320,17 @@ export default function StoreDetail({ store, schema }: Props) {
                       )}
                     </div>
                   </div>
+                </div>
+
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
+                  <div className="h-full">
+                    <PromoSection storeSlug={store.slug} />
+                  </div>
 
                   {youtubeVideoId && (
-                    <div>
+                    <div className="h-full flex flex-col">
                       <h3 className="text-2xl font-bold text-gray-900 mb-6">
-                        EXPLORE OUR {store.name.toUpperCase()} LOCATION
+                        PREVIEW {store.name.toUpperCase()} LOCATION
                       </h3>
                       <div className="relative rounded-2xl overflow-hidden shadow-lg border border-gray-200 group cursor-pointer">
                         <div className="relative">
@@ -335,8 +338,8 @@ export default function StoreDetail({ store, schema }: Props) {
                             src={getYouTubeThumbnail(youtubeVideoId)}
                             alt={`${store.name} video thumbnail`}
                             width={600}
-                            height={338}
-                            className="w-full h-auto"
+                            height={400}
+                            className="w-full h-auto aspect-video object-cover"
                           />
                           <div className="absolute inset-0 bg-black/30 flex items-center justify-center group-hover:bg-black/40 transition-colors">
                             <button
