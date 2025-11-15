@@ -31,14 +31,14 @@ export default function PromoSection({ storeSlug }: PromoSectionProps) {
 
   if (promos.length === 1) {
     return (
-      <div className="rounded-2xl h-120 lg:h-full flex flex-col">
+      <div className="rounded-2xl h-full flex flex-col">
         <h3 className="text-2xl font-bold text-gray-900 mb-6">PROMOTIONS</h3>
-        <div className="relative w-full flex-1 rounded-lg overflow-hidden">
+        <div className="relative h-full w-full rounded-lg overflow-hidden aspect-video">
           <Image
             src={currentPromo.image}
             alt="Promotion"
             fill
-            className="object-cover"
+            className="aspect-video object-cover"
             priority
           />
         </div>
@@ -49,13 +49,13 @@ export default function PromoSection({ storeSlug }: PromoSectionProps) {
   return (
     <div className="rounded-2xl h-full flex flex-col">
       <h3 className="text-2xl font-bold text-gray-900 mb-6">PROMOTIONS</h3>
-      <div className="relative rounded-lg overflow-hidden flex-1">
+      <div className="relative rounded-lg overflow-hidden flex-1 aspect-video">
         <div className="relative w-full h-full">
           <Image
             src={currentPromo.image}
             alt={`Promotion ${currentIndex + 1}`}
             fill
-            className="object-cover"
+            className="object-cover aspect-video"
             priority={currentIndex === 0}
           />
 
