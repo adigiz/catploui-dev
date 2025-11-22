@@ -253,16 +253,19 @@ export default function ComprehensiveAllergenTable({
       </div>
 
       {/* Desktop Table Container */}
-      <div className="hidden lg:block overflow-x-auto border border-gray-200 rounded-lg">
+      <div
+        className="hidden lg:block overflow-x-auto overflow-y-auto border border-gray-200 rounded-lg"
+        style={{ maxHeight: "calc(100vh - 200px)" }}
+      >
         <table className="min-w-full" aria-label="Allergen Information">
           <caption className="sr-only">
             Allergen information for menu items
           </caption>
-          <thead className="bg-gray-50 border-b border-gray-200">
+          <thead className="bg-gray-50 border-b border-gray-200 sticky top-0 z-30">
             <tr>
               <th
                 scope="col"
-                className="sticky left-0 bg-gray-50 border-r border-gray-200 px-4 py-3 min-w-[200px] w-[200px] text-left text-sm font-semibold text-gray-900"
+                className="sticky left-0 bg-gray-50 border-r border-gray-200 px-4 py-3 min-w-[200px] w-[200px] text-left text-sm font-semibold text-gray-900 z-20"
               >
                 Menu Item
               </th>

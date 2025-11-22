@@ -203,7 +203,10 @@ export default function ComprehensiveNutritionTable({
       </div>
 
       {/* Desktop Table Container */}
-      <div className="hidden lg:block overflow-x-auto border border-gray-200 rounded-lg">
+      <div
+        className="hidden lg:block overflow-x-auto overflow-y-auto border border-gray-200 rounded-lg"
+        style={{ maxHeight: "calc(100vh - 200px)" }}
+      >
         <table className="min-w-full" aria-label="Nutrition Information">
           <caption className="sr-only">Nutrition facts for menu items</caption>
           <TableHeader columns={nutritionColumns} />

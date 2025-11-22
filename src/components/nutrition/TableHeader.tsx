@@ -1,6 +1,12 @@
 import React from "react";
 
-type Column = { key: string; label: string; unit?: string; minWidth?: string; align?: "left" | "center" };
+type Column = {
+  key: string;
+  label: string;
+  unit?: string;
+  minWidth?: string;
+  align?: "left" | "center";
+};
 
 interface TableHeaderProps {
   columns: Column[];
@@ -8,11 +14,11 @@ interface TableHeaderProps {
 
 export default function TableHeader({ columns }: TableHeaderProps) {
   return (
-    <thead className="bg-gray-50 border-b border-gray-200">
+    <thead className="bg-gray-50 border-b border-gray-200 sticky top-0 z-30">
       <tr>
         <th
           scope="col"
-          className="sticky left-0 bg-gray-50 border-r border-gray-200 px-4 py-3 min-w-[200px] w-[200px] text-left text-sm font-semibold text-gray-900"
+          className="sticky left-0 bg-gray-50 border-r border-gray-200 px-4 py-3 min-w-[200px] w-[200px] text-left text-sm font-semibold text-gray-900 z-20"
         >
           Menu Item
         </th>
@@ -20,7 +26,9 @@ export default function TableHeader({ columns }: TableHeaderProps) {
           <th
             key={column.key}
             scope="col"
-            className={`px-4 py-3 ${column.align === "center" ? "text-center" : "text-left"} border-r border-gray-200 last:border-r-0 whitespace-nowrap text-sm font-semibold text-gray-900`}
+            className={`px-4 py-3 ${
+              column.align === "center" ? "text-center" : "text-left"
+            } border-r border-gray-200 last:border-r-0 whitespace-nowrap text-sm font-semibold text-gray-900`}
             style={{ minWidth: column.minWidth, width: column.minWidth }}
           >
             {column.label}
